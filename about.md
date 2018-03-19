@@ -5,7 +5,7 @@ permalink: "/about/"
 ---
 11-11 Studios is media creation arm of Tech-Mex.io.
 
-## why are my changes not being picked up?
+## I think this is working, testing my alias now?
 
 # We create:
 

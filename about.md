@@ -5,7 +5,7 @@ permalink: "/about/"
 ---
 11-11 Studios is media creation arm of Tech-Mex.io.
 
-## testing in Forestry getting an error when I upload
+## why are my changes not being picked up?
 
 # We create:
 

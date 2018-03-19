@@ -3,7 +3,7 @@ layout: page
 title: ME LA PELAS
 permalink: "/me-la-pelas/"
 ---
-This is my first change using forestry, switch to github pages, check, trying to find styles, added config file and try to add base url.
+This is my first change using forestry, switch to github pages, check, trying to find styles, added config file and try to add base url, and now I think I did it correctly.
 
 And this is a link to [Geroge's Photo Site](https://georgeramirezphotography.com)
 

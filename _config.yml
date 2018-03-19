@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This text will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: https://www.11-11studios.com # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://11-11studios.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: _georgeramirez_
 github_username:  GRamirez2
 

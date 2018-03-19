@@ -3,7 +3,7 @@ layout: page
 title: ME LA PELAS
 permalink: "/me-la-pelas/"
 ---
-This is my first change using forestry.
+This is my first change using forestry, switch to github pages.
 
 And this is a link to [Geroge's Photo Site](https://georgeramirezphotography.com)
 

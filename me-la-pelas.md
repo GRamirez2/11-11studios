@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ME LA PELAS
-permalink: "/11-11studios/me-la-pelas/"
+permalink: "/me-la-pelas/"
 ---
 This is my first change using forestry, switch to github pages, check, trying to find styles, added config file and try to add base url, and now I think I did it correctly.
 
